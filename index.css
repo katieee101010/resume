@@ -3,11 +3,11 @@ body {
     background-image: url(http://getwallpapers.com/wallpaper/full/a/c/6/272622.jpg)
   }
   .left {
-    width: 800px;
+    width: 700px;
     float:left;
   }
   .right{
-    width: 300px;
+    width: 350px;
     float: right;
     border: 4px solid pink;
     padding: 15px;
